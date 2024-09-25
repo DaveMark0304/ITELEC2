@@ -1,9 +1,9 @@
 body {
     background:url("../image/image1.jpg");
-    background-size: cover; /* Ensure the image covers the entire background */
-    background-position: center center; /* Center the image both horizontally and vertically */
-    background-repeat: no-repeat; /* Prevent the image from repeating */
-    background-attachment: fixed; /* Optional: Fix the background image in place */
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
 }
 body {
     display: flex;
